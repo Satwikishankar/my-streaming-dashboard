@@ -2,6 +2,8 @@
 
 StreamSphere is a simplified streaming dashboard (think Netflix/Hulu) built with Next.js 14 App Router, TypeScript, and Tailwind CSS. It showcases server-rendered hero content and horizontally scrolling carousels powered by The Movie Database (TMDB) API.
 
+![image alt](https://github.com/Satwikishankar/my-streaming-dashboard/blob/68c84b810c639f4b4e619ff9500b9f4e651e770a/Airbrush-Collage-2025-11-14T15_00_14.png)
+
 ## Features
 - **Next.js 14 App Router** with server components handling all data fetching.
 - **TMDB integration** for popular, top-rated, now-playing, and upcoming movies.
